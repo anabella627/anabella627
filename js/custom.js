@@ -1,18 +1,6 @@
-/*---------------------------------------------------------------------
-    File Name: custom.js
----------------------------------------------------------------------*/
-
-$(function () {
-
+jQuery(document).ready(function() {
+	
 	"use strict";
-
-	/* Preloader
-	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
-
-	setTimeout(function () {
-		$('.loader_bg').fadeToggle();
-	}, 1500);
-
+	// Your custom js code goes here.
 
 });
-
