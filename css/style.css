@@ -54,11 +54,11 @@ p, ul, ol {
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
-  color: #6a41ed;
+  color: green;
 }
 
 a:hover, a:focus, a:active {
-  color: #582aeb;
+  color:  green;
   text-decoration: none;
 }
 
@@ -180,7 +180,7 @@ a:hover, a:focus, a:active {
 .probootstrap-top-quick-contact-info span i {
   display: inline-block;
   margin-right: 10px;
-  color: #49D292;
+  color: #41ed6fb1;
 }
 
 .probootstrap-top-social {
@@ -208,7 +208,7 @@ a:hover, a:focus, a:active {
 .probootstrap-top-social ul li a {
   display: inline-block;
   padding: 4px;
-  color: #49D292;
+  color: green;
 }
 
 .probootstrap-top-social ul li:last-child a {
@@ -388,12 +388,12 @@ a:hover, a:focus, a:active {
 .probootstrap-navbar .dropdown > .dropdown-menu > li a:hover {
   border-top: none;
   background: #ffffff;
-  color: #49D292;
+  color: #41ed6fb1;
 }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.open > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:hover > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:focus > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:active > a {
   border-top: none;
-  color: #49D292;
+  color: green  ;
   background: #ffffff;
 }
 
@@ -417,7 +417,7 @@ a:hover, a:focus, a:active {
   border: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #49D292;
+  background: #41ed6fb1;
   border-radius: 0;
   -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
   box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
@@ -506,7 +506,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-navbar .navbar-nav > li.active > a {
   background: none !important;
-  color: #49D292 !important;
+  color: green!important;
 }
 
 @media screen and (max-width: 768px) {
@@ -520,13 +520,13 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > .dropdown-menu:before {
-  border: 1px solid #49D292;
+  border: 1px solid #41ed6fb1;
   content: "";
   position: absolute;
   top: -20px;
   left: 40px;
   border-color: rgba(73, 210, 146, 0);
-  border-bottom-color: #49D292;
+  border-bottom-color: #41ed6fb1;
   border-width: 10px;
   margin-left: -10px;
 }
@@ -873,7 +873,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-showcase-nav ul li.active > a {
-  color: #6a41ed;
+  color:  green;
   padding-left: 0px;
   display: block;
 }
@@ -906,36 +906,36 @@ a:hover, a:focus, a:active {
 }
 
 .btn.btn-primary {
-  border: 1px solid #49D292;
-  background: #49D292;
+  border: 1px solid #41ed6fb7;
+  background: #41ed6fb1;
   color: #ffffff;
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  background: #51d497;
+  background: #41ed6fb1;
 }
 
 .btn.btn-primary:focus, .btn.btn-primary:active {
   outline: none;
-  border: 1px solid #49D292;
+  border: 1px solid #41ed6fb2;
 }
 
 .btn.btn-ghost {
   background: transparent;
-  border: 1px solid #49D292;
-  color: #49D292;
+  border: 1px solid #41ed6fb1;
+  color: green;
 }
 
 .btn.btn-ghost:hover {
-  background: #49D292;
+  background: #41ed6fb1;
   color: #ffffff;
 }
 
 .btn.btn-ghost:focus, .btn.btn-ghost:active {
   outline: none;
   background: transparent;
-  color: #49D292;
-  border: 1px solid #49D292;
+  color: green;
+  border: 1px solid #41ed6fb2;
 }
 
 .probootstrap-section {
@@ -961,7 +961,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-section.probootstrap-section-colored {
-  background: #6a41ed;
+  background:  green;
 }
 
 .probootstrap-section.probootstrap-section-colored .section-heading h2 {
@@ -1039,7 +1039,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-cta {
   padding: 3em 0;
-  background: #41ed75;
+  background: #41ed6fb1;
   color: #ffffff;
 }
 
@@ -1094,7 +1094,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-cta .btn.btn-ghost:hover {
   background: #ffffff;
-  color: #6a41ed;
+  color: green;
 }
 
 .probootstrap-footer {
@@ -1372,7 +1372,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-counter-wrap .probootstrap-icon i {
   font-size: 40px;
-  color: #49D292;
+  color: green;
 }
 
 .probootstrap-counter-wrap .probootstrap-text .probootstrap-counter {
@@ -1523,7 +1523,7 @@ a:hover, a:focus, a:active {
 .nav-tabs.probootstrap-tabs > li > a, .nav-pills.probootstrap-tabs > li > a {
   border-radius: 0px;
   padding: 20px 30px;
-  background: #49D292;
+  background: #41ed6fb1;
   color: #ffffff;
   font-size: 16px;
   border: none !important;
@@ -1537,7 +1537,7 @@ a:hover, a:focus, a:active {
 }
 
 .nav-tabs.probootstrap-tabs > li > a:hover, .nav-pills.probootstrap-tabs > li > a:hover {
-  background: #35cd86;
+  background: #41ed6fb1;
 }
 
 .nav-tabs.probootstrap-tabs > li > a:active, .nav-tabs.probootstrap-tabs > li > a:focus, .nav-pills.probootstrap-tabs > li > a:active, .nav-pills.probootstrap-tabs > li > a:focus {
@@ -1603,7 +1603,7 @@ a:hover, a:focus, a:active {
   top: -30px;
   -webkit-transition: .3s all;
   transition: .3s all;
-  border-bottom: 3px solid #6a41ed;
+  border-bottom: 3px solid  #41ed6fb2;
 }
 
 .probootstrap-featured-news-box .probootstrap-text h3 {
@@ -1621,7 +1621,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-featured-news-box:hover .probootstrap-text, .probootstrap-featured-news-box:focus .probootstrap-text {
-  background: #6a41ed;
+  background:  #41ed6fb1;
   top: -40px;
   -webkit-box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
@@ -1661,7 +1661,7 @@ a:hover, a:focus, a:active {
 .service .icon i {
   font-size: 40px;
   color: rgba(0, 0, 0, 0.2);
-  color: #49D292;
+  color: green;
 }
 
 .service h3 {
@@ -2025,7 +2025,7 @@ a:hover, a:focus, a:active {
 .probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-color: #6a41ed;
+  border-color:  #41ed80
 }
 
 .probootstrap-form textarea.form-control {
@@ -2133,7 +2133,7 @@ a:hover, a:focus, a:active {
 }
 
 .modal .probootstrap-modal-flex .probootstrap-or {
-  padding: 10px 0;
+  padding: 10px 0; 
   text-align: center;
   display: block;
   font-size: 11px;
@@ -2166,8 +2166,8 @@ a:hover, a:focus, a:active {
 }
 
 .modal .probootstrap-modal-flex .btn-connect-facebook {
-  background: #3b5998;
-  border-color: #3b5998;
+  background:  #41ed6fb1;
+  border-color: #41ed6fb6;
   color: #ffffff;
 }
 
@@ -2472,7 +2472,7 @@ a:hover, a:focus, a:active {
   display: block;
   text-transform: none;
   letter-spacing: normal;
-  color: #6a41ed;
+  color:  green;
   font-size: 14px;
 }
 
@@ -2482,7 +2482,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-pricing .probootstrap-price-wrap .probootstrap-price {
   font-size: 50px;
-  color: #6a41ed;
+  color:  green;
   font-weight: 100;
   display: block;
   margin-bottom: 10px;
